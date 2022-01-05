@@ -1,5 +1,5 @@
 # Bike_Sharing_System
-Created a Linear Regression model for a bike sharing company to find various attributes affecting their business and predicting the count of shared bikes based upon the attributes
+Created a Linear Regression model for a bike sharing company to find various attributes affecting their business and predicting the count of shared bikes based upon the attributes by performing EDA, Data Visualisation to find insights and patterns, and then Feature Engineering to prepare the data efficiently for building the model, Feature Scaling to scale the values of features to similar range and then, built the Linear Regression model. Model was built using statsmodels and evaluated on the test dataset by performing Residual Analysis and finding the R-squared value. The Model R-squared score obtained is 80.3%.
 
 
 ## Problem Statement
